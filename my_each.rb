@@ -13,4 +13,4 @@ def my_each(array)
   end
 end
 
-my_each()
+my_each(array) do |i|
